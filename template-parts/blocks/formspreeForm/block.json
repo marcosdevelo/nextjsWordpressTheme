@@ -1,0 +1,13 @@
+{
+    "name": "acf/formspreeform",
+    "title":"formspreeform",
+    "description": " A block to render form",
+    "category":"design",
+    "keywords":["form","formspree form","contact form"],
+    "icon": "format-aside",
+    "apiVersion":2,
+    "acf":{
+        "renderTemplate":"./formspreeForm.php",
+        "mode": "preview"
+    }
+}
